@@ -1,2 +1,2 @@
 # SoC-Data-Driven-Astronomy
-SoC Project
+SoC Project. Kindly check master branch.
