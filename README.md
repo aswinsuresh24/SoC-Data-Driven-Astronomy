@@ -1,10 +1,12 @@
 # SoC-Data-Driven-Astronomy
 
+Detailed progress is given in the progress report. <br/>
+
 Week 1:<br/>
-Completed Assignment (i), (ii) and (iii) given by mentor.<br />
-Assignment(i)-Plotted a histogram of probability distribution when two dice are thrown simultaneously using matplotlib.<br /> 
-Assignment(ii)-Highlighted possible problems that may be encountered while performing data analysis.<br />
-Assignment(iii)-Given a file containing a list of strings, the code sorts the strings in ascending order of their length, using bubble sort.
+❖ Completed Assignment (i), (ii) and (iii) given by mentor.<br />
+➢Assignment(i)-Plotted a histogram of probability distribution when two dice are thrown simultaneously using matplotlib.<br /> 
+➢Assignment(ii)-Highlighted possible problems that may be encountered while performing data analysis.<br />
+➢Assignment(iii)-Given a file containing a list of strings, the code sorts the strings in ascending order of their length, using bubble sort.
 
 Week 2 and 3:<br/>
 ❖ Completed all graded exercises, assignments and videos from the first 4 weeks of the
